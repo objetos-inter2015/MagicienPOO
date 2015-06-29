@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=contAnimacion
+comment1.target=void\ animacion(int)
+comment1.text=\r\n\ animaciones\ de\ mario\r\n
+comment2.params=
+comment2.target=void\ colision()
+comment2.text=\r\n\ colisiones\ de\ mario\r\n
+numComments=3

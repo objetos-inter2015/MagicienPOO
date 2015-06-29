@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ interaccion()
+comment1.text=\r\n\ funcion\ de\ interaccion\ con\ el\ escenario\ vida,\ muerte.\r\n
+comment2.params=v
+comment2.target=int\ transparencia(int)
+comment2.text=\r\n\ funcion\ transparencia\ al\ recibir\ dano.\r\n
+comment3.params=cont\ trans
+comment3.target=void\ movimiento(int,\ int)
+comment3.text=\r\n\ funcion\ para\ generar\ movimiento\ del\ fantasma.\r\n
+comment4.params=
+comment4.target=int\ contador()
+comment4.text=\r\n\ funcion\ contador\ modificado.\r\n
+comment5.params=
+comment5.target=void\ hechizo()
+comment5.text=\r\n\ funcion\ para\ crear\ el\ hechizo\ del\ fantasma.\r\n
+comment6.params=
+comment6.target=int\ scoreF()
+comment6.text=\r\n\ funcion\ regresa\ score\ de\ cada\ uno\ de\ los\ fantasmas\ al\ mundo.\r\n
+numComments=7

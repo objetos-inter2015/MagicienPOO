@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=HechizosM(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ animacion()
+comment2.text=\r\n\ funcion\ para\ la\ creacion\ de\ animaciones\r\n
+numComments=3

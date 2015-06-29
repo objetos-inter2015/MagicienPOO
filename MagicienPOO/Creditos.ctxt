@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Creditos()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ interaccion()
+comment2.text=\r\n\ funcion\ para\ realizar\ una\ espera\ o\ interaccion\ con\ el\ teclado.\r\n
+numComments=3
